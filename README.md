@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">developer by day,... by night</h3>
 
-### My Toolbox
+<h3 align="center">My Bag👜</h3>
 <p align="center">
   <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
