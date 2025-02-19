@@ -20,6 +20,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <!-- Operating Systems -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+    <!-- Cloud Services -->
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="linux" width="40" height="40"/></a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
 - 🔭 I’m currently working on **personal projects**
@@ -39,5 +42,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogbeh&show_icons=true&theme=dark&locale=en" alt="ogbeh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogbeh&theme=dark" alt="ogbeh" /></p>
